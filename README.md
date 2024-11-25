@@ -28,7 +28,7 @@
     *   Set the API key as an environment variable:
         
         ```
-        export OPENWEATHERMAP_API=your_api_key
+        export OPENWEATHER_API=your_api_key
         ```
         
 3.  **Build and Run with Gradle:**
